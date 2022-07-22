@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about coding
 - 📫 How to reach me: By name, by other social media
 - 😄 Pronouns: He
-- ⚡ Fun fact: One day, I was said to be a good drawer.
+- ⚡ Fun fact: 
 
 The introduction ends. Back to working on projects...

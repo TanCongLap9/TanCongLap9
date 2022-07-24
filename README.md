@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on projects
-- 🌱 I’m currently learning JS
-- 👯 I’m looking to collaborate on no one yet
-- 🤔 I’m looking for help with nothing yet
-- 💬 Ask me about coding
-- 📫 How to reach me: By name, by other social media
-- 😄 Pronouns: He
-- ⚡ Fun fact: 
+- 🔭 I’m currently working on projects.
+- 🌱 I’m currently learning JS.
+- 👯 I’m looking to collaborate on no one yet.
+- 🤔 I’m looking for help with nothing yet.
+- 💬 Ask me about coding.
+- 📫 How to reach me: By name, by other social media.
+- 😄 Pronouns: He.
+- ⚡ Fun fact: I also like programming in language other than JS.
 
 The introduction ends. Back to working on projects...

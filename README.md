@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about coding.
 - 📫 How to reach me: By name, by other social media.
 - 😄 Pronouns: He.
-- ⚡ Fun fact: I also like programming in language other than JS.
+- ⚡ Fun fact: I also like programming in other languages.
 
 The introduction ends. Back to working on projects...
